@@ -1,5 +1,5 @@
 # AI Analyst
-This is an AI-powered code and data analysis tool built with Next.js and Gemini.
+This is an AI-powered code and data analysis tool built with Next.js and Google Gemini AI.
 
 ![Preview](preview.png)
 
@@ -40,4 +40,3 @@ Copy `.example.env` to `.env.local` and fill in variables for E2B and one LLM pr
 E2B: `E2B_API_KEY`
 
 - Get your [E2B API key here](https://e2b.dev/dashboard?tab=keys).
-# ai-analyst
